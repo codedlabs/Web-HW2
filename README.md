@@ -4,9 +4,6 @@
 
 <hr/>
 
-
-
-
 1. قم بعمل fork للـ repository
 2. افتح الـ repository باستخدام github desktop
 3. افتح برنامج visual studio code وافتح مجلد الـ repository
